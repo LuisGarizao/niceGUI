@@ -1,0 +1,5 @@
+nicegui-pack --onefile --windowed --name "app GLC" App.py
+
+--onefile: genera el .exe
+--name: nombre del archivo .exe
+App.py: nombre del archivo python
